@@ -1,0 +1,42 @@
+[
+  {
+    "estudiante": "Luis Pérez",
+    "padre": "juan@example.com",
+    "curso": "1° Primaria",
+    "fecha": "2025-07-15",
+    "monto": 1500,
+    "estado": "aprobado",
+    "metodo": "transferencia",
+    "boucherBase64": "data:image/jpeg;base64,..."
+  },
+  {
+    "estudiante": "Lucía López",
+    "padre": "juan@example.com",
+    "curso": "2° Primaria",
+    "fecha": "2025-08-05",
+    "monto": 1500,
+    "estado": "pendiente",
+    "metodo": "transferencia",
+    "boucherBase64": "data:image/jpeg;base64,..."
+  },
+  {
+    "estudiante": "Juan Pérez",
+    "padre": "daniela@example.com",
+    "curso": "1° Primaria",
+    "fecha": "2025-06-10",
+    "monto": 2500,
+    "estado": "aprobado",
+    "metodo": "transferencia",
+    "boucherBase64": "data:image/jpeg;base64,..."
+  },
+  {
+    "estudiante": "Juan Pérez",
+    "padre": "daniela@example.com",
+    "curso": "1° Primaria",
+    "fecha": "2025-07-10",
+    "monto": 1500,
+    "estado": "pendiente",
+    "metodo": "transferencia",
+    "boucherBase64": "data:image/jpeg;base64,..."
+  }
+]
